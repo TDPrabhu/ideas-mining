@@ -11,4 +11,4 @@ Why not create an open source platform to register, get IDed and reviews tracked
 3. Interview helper
 app to help me get through an interview. I havent seen a good companion app so far.. 
 
-4. 
+4. Hybrid Lambda Architecutre with multiple Cloud Service Providers. 
